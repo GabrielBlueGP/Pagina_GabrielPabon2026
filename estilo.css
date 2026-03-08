@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(50, 50, 223);
+}
+
+h2 {
+    color: rgb(57, 57, 135);
+}
+
+.FOTO_1{
+    width: 300px;
+}
+
+.FOTO_2{
+    width: 300px;
+}
+
+.FOTO_3{
+    width: 300px;
+}
