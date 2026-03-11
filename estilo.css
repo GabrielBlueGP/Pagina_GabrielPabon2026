@@ -3,15 +3,20 @@ body {
 }
 
 h1 {
-    color: rgb(50, 50, 223);
+    color: rgb(23, 18, 45);
 }
 
 h2 {
-    color: rgb(57, 57, 135);
+    color: rgb(72, 10, 107);
 }
 
+h3 {
+    color: rgb(114, 42, 169);
+}
+
+
 .FOTO_1{
-    width: 300px;
+    width: 600px;
 }
 
 .FOTO_2{
